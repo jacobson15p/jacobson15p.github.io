@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Philip's Website"
+title                    : "Philip Jacobson's Homepage"
 title_separator          : "-"
 name                     : &name "Philip Jacobson"
 description              : &description "PhD Student at UC Berkeley"
