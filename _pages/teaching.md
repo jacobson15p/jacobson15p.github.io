@@ -7,6 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Graduate Student Instructor, CS189/289A Introduction to Machine Learning, Spring 2022, Instructor: Prof. Jonathan Shewchuk
