@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /files/Philip_Jacobson_Resume.pdf
     
   - title: "Guide"
     url: /markdown/
